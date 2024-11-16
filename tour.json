@@ -1,140 +1,138 @@
-{
-    [
-        {
-            "title": "Sumba",
-            "address": "Sumba Island, East Nusa Tenggara",
-            "ratting": "4.9",
-            "review": 69,
-            "price": "196,46",
-            "days": "4 Day 3 Night",
-            "img": "assets/img/Sumba.png",  
-            "amenities": [
-                {
-                    "data": "Breakfast, Lunch & Dinner"
-                },
-                {
-                    "data": "Hotel AC"
-                },
-                {
-                    "data": "Guide/Tour Leader"
-                },
-                {
-                    "data": "Transportation AC"
-                },
-                {
-                    "data": "Tour Tickets"
-                },
-                {
-                    "data": "Documentation"
-                },
-                {
-                    "data": "Airport Shuttle"
-                },
-                {
-                    "data": "Mineral Water"
-                }
-            ]
-        },
-        {
-            "title": "Tumpak Sewu",
-            "address": "Malang, East Java",
-            "ratting": "4.5",
-            "review": 25,
-            "price": "100",
-            "days": "2 Day",
-            "img": "assets/img/91.png",
-            "amenities": [
-                {
-                    "data": "Penjemputan PP Kota Malang"
-                },
-                {
-                    "data": "Guide/Tour Leader"
-                },
-                {
-                    "data": "Tour Tickets"
-                },
-                {
-                    "data": "Documentation"
-                }
-            ]
-        },
-        {
-            "title": "Pantai Malang",
-            "address": "Malang, East Java",
-            "ratting": "4.8",
-            "review": 55,
-            "price": "150",
-            "days": "2 Day",
-            "img": "assets/img/jpg/pantai3warna.jpg",
-            "amenities": [
-                {
-                    "data": "Penjemputan PP Kota Malang"
-                },
-                {
-                    "data": "Guide/Tour Leader"
-                },
-                {
-                    "data": "Tour Tickets"
-                },
-                {
-                    "data": "Documentation"
-                }
-            ]
-        },
-        {
-            "title": "Bali",
-            "address": "Bali, Bali Island",
-            "ratting": "5",
-            "review": 90,
-            "price": "230",
-            "days": "4 Day",
-            "img": "assets/img/bali.png",
-            "amenities": [
-                {
-                    "data": "Breakfast, Lunch & Dinner"
-                },
-                {
-                    "data": "Hotel AC"
-                },
-                {
-                    "data": "Guide/Tour Leader"
-                },
-                {
-                    "data": "Transportation AC"
-                },
-                {
-                    "data": "Tour Tickets"
-                },
-                {
-                    "data": "Documentation"
-                },
-                {
-                    "data": "Airport Shuttle"
-                }
-            ]
-        },
-        {
-            "title": "Jatim Park",
-            "address": "Malang, East Java",
-            "ratting": "4.9",
-            "review": 80,
-            "price": "140",
-            "days": "3 Day",
-            "img": "assets/img/jpg/jatimpark3.jpg",
-            "amenities": [
-                {
-                    "data": "Penjemputan PP Kota Malang"
-                },
-                {
-                    "data": "Guide/Tour Leader"
-                },
-                {
-                    "data": "Tour Tickets"
-                },
-                {
-                    "data": "Documentation"
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "title": "Sumba",
+        "address": "Sumba Island, East Nusa Tenggara",
+        "ratting": "4.9",
+        "review": 69,
+        "price": "196,46",
+        "days": "4 Day 3 Night",
+        "img": "assets/img/Sumba.png",
+        "amenities": [
+            {
+                "data": "Breakfast, Lunch & Dinner"
+            },
+            {
+                "data": "Hotel AC"
+            },
+            {
+                "data": "Guide/Tour Leader"
+            },
+            {
+                "data": "Transportation AC"
+            },
+            {
+                "data": "Tour Tickets"
+            },
+            {
+                "data": "Documentation"
+            },
+            {
+                "data": "Airport Shuttle"
+            },
+            {
+                "data": "Mineral Water"
+            }
+        ]
+    },
+    {
+        "title": "Tumpak Sewu",
+        "address": "Malang, East Java",
+        "ratting": "4.5",
+        "review": 25,
+        "price": "100",
+        "days": "2 Day",
+        "img": "assets/img/91.png",
+        "amenities": [
+            {
+                "data": "Penjemputan PP Kota Malang"
+            },
+            {
+                "data": "Guide/Tour Leader"
+            },
+            {
+                "data": "Tour Tickets"
+            },
+            {
+                "data": "Documentation"
+            }
+        ]
+    },
+    {
+        "title": "Pantai Malang",
+        "address": "Malang, East Java",
+        "ratting": "4.8",
+        "review": 55,
+        "price": "150",
+        "days": "2 Day",
+        "img": "assets/img/jpg/pantai3warna.jpg",
+        "amenities": [
+            {
+                "data": "Penjemputan PP Kota Malang"
+            },
+            {
+                "data": "Guide/Tour Leader"
+            },
+            {
+                "data": "Tour Tickets"
+            },
+            {
+                "data": "Documentation"
+            }
+        ]
+    },
+    {
+        "title": "Bali",
+        "address": "Bali, Bali Island",
+        "ratting": "5",
+        "review": 90,
+        "price": "230",
+        "days": "4 Day",
+        "img": "assets/img/bali.png",
+        "amenities": [
+            {
+                "data": "Breakfast, Lunch & Dinner"
+            },
+            {
+                "data": "Hotel AC"
+            },
+            {
+                "data": "Guide/Tour Leader"
+            },
+            {
+                "data": "Transportation AC"
+            },
+            {
+                "data": "Tour Tickets"
+            },
+            {
+                "data": "Documentation"
+            },
+            {
+                "data": "Airport Shuttle"
+            }
+        ]
+    },
+    {
+        "title": "Jatim Park",
+        "address": "Malang, East Java",
+        "ratting": "4.9",
+        "review": 80,
+        "price": "140",
+        "days": "3 Day",
+        "img": "assets/img/jpg/jatimpark3.jpg",
+        "amenities": [
+            {
+                "data": "Penjemputan PP Kota Malang"
+            },
+            {
+                "data": "Guide/Tour Leader"
+            },
+            {
+                "data": "Tour Tickets"
+            },
+            {
+                "data": "Documentation"
+            }
+        ]
+    }
+]
