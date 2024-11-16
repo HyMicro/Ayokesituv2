@@ -6,7 +6,7 @@
         "review": 69,
         "price": "196,46",
         "days": "4 Day 3 Night",
-        "img": "assets/img/Sumba.png",
+        "img": "assets/img/png/Sumba.png",
         "amenities": [
             {
                 "data": "Breakfast, Lunch & Dinner"
@@ -41,7 +41,7 @@
         "review": 25,
         "price": "100",
         "days": "2 Day",
-        "img": "assets/img/91.png",
+        "img": "assets/img/png/91.png",
         "amenities": [
             {
                 "data": "Penjemputan PP Kota Malang"
@@ -87,7 +87,7 @@
         "review": 90,
         "price": "230",
         "days": "4 Day",
-        "img": "assets/img/bali.png",
+        "img": "assets/img/png/bali.png",
         "amenities": [
             {
                 "data": "Breakfast, Lunch & Dinner"
