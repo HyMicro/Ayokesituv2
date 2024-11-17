@@ -4,7 +4,7 @@
         "address": "Sumba Island, East Nusa Tenggara",
         "ratting": "4.9",
         "review": 69,
-        "price": "196,46",
+        "price": "2.150.000",
         "days": "4 Day 3 Night",
         "img": "assets/img/png/Sumba.png",
         "amenities": [
@@ -39,7 +39,7 @@
         "address": "Malang, East Java",
         "ratting": "4.5",
         "review": 25,
-        "price": "100",
+        "price": "500.000",
         "days": "2 Day",
         "img": "assets/img/png/91.png",
         "amenities": [
@@ -62,7 +62,7 @@
         "address": "Malang, East Java",
         "ratting": "4.8",
         "review": 55,
-        "price": "150",
+        "price": "150.000",
         "days": "2 Day",
         "img": "assets/img/jpg/pantai3warna.jpg",
         "amenities": [
@@ -85,7 +85,7 @@
         "address": "Bali, Bali Island",
         "ratting": "5",
         "review": 90,
-        "price": "230",
+        "price": "1.150.000",
         "days": "4 Day",
         "img": "assets/img/png/bali.png",
         "amenities": [
@@ -117,7 +117,7 @@
         "address": "Malang, East Java",
         "ratting": "4.9",
         "review": 80,
-        "price": "140",
+        "price": "300.000",
         "days": "3 Day",
         "img": "assets/img/jpg/jatimpark3.jpg",
         "amenities": [
