@@ -2,6 +2,7 @@
     {
         "title": "Sumba",
         "address": "Sumba Island, East Nusa Tenggara",
+        "location": "-9.488649, 119.477506",
         "ratting": "4.9",
         "review": 69,
         "price": "2.150.000",
@@ -38,6 +39,7 @@
     {
         "title": "Tumpak Sewu",
         "address": "Malang, East Java",
+        "location": "-8.230201973464181, 112.91754379694775",
         "ratting": "4.5",
         "review": 25,
         "price": "500.000",
@@ -62,6 +64,7 @@
     {
         "title": "Pantai Malang",
         "address": "Malang, East Java",
+        "location": "-8.446469153649609, 112.65180512261145",
         "ratting": "4.8",
         "review": 55,
         "price": "150.000",
@@ -86,6 +89,7 @@
     {
         "title": "Bali",
         "address": "Bali, Bali Island",
+        "location": "-8.40642926592049, 115.18413394202754",
         "ratting": "5",
         "review": 90,
         "price": "1.150.000",
@@ -119,6 +123,7 @@
     {
         "title": "Jatim Park",
         "address": "Malang, East Java",
+        "location": "-7.8953693191277745, 112.55314929427905",
         "ratting": "4.9",
         "review": 80,
         "price": "300.000",
